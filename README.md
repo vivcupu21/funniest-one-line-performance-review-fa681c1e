@@ -1,8 +1,8 @@
 # Funniest One-Line Performance Review
 
-[![make.fun](https://make.fun/badge/u-kiencx-funniest-one-line-performance-review-fa681c1e.svg)](https://make.fun/c/u-kiencx-funniest-one-line-performance-review-fa681c1e)
-[![rank](https://make.fun/badge/u-kiencx-funniest-one-line-performance-review-fa681c1e/rank.svg)](https://make.fun/c/u-kiencx-funniest-one-line-performance-review-fa681c1e)
-[![reward](https://make.fun/badge/u-kiencx-funniest-one-line-performance-review-fa681c1e/reward.svg)](https://make.fun/c/u-kiencx-funniest-one-line-performance-review-fa681c1e)
+[![make.fun · u-kiencx-funniest-one-line-performance-review-fa681c1e](https://make.fun/badge/u-kiencx-funniest-one-line-performance-review-fa681c1e.svg)](https://make.fun/bounty/u-kiencx-funniest-one-line-performance-review-fa681c1e?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-funniest-one-line-performance-review-fa681c1e)
+[![rank](https://make.fun/badge/u-kiencx-funniest-one-line-performance-review-fa681c1e/vivcupu21/funniest-one-line-performance-review-fa681c1e/rank.svg)](https://make.fun/bounty/u-kiencx-funniest-one-line-performance-review-fa681c1e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-funniest-one-line-performance-review-fa681c1e)
+[![reward](https://make.fun/badge/u-kiencx-funniest-one-line-performance-review-fa681c1e/vivcupu21/funniest-one-line-performance-review-fa681c1e/reward.svg)](https://make.fun/bounty/u-kiencx-funniest-one-line-performance-review-fa681c1e?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-funniest-one-line-performance-review-fa681c1e)
 
 Entry for the make.fun bounty **Funniest One-Line Performance Review**
 (`u-kiencx-funniest-one-line-performance-review-fa681c1e`).
